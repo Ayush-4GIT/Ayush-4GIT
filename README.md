@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Myself,  Ayush Mehta 😊</p>
+<h3 align="left">Myself,  Ayush Mehta 😊</h3>
 
 ###
 
