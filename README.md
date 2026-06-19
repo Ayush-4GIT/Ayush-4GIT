@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🎓 Computer Engineering Student<br>💻 Passionate about Full-Stack Web Development<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>🐍 Learning Python and Data Structures & Algorithms<br>🚀 Building real-world projects to improve problem-solving skills<br>🌍 Aspiring to pursue higher studies and a tech career in Germany<br>📚 Always learning and improving, one step at a time</p>
+<p align="left">🎓 Computer Engineering Student<br>💻 Passionate about Full-Stack Web Development<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>🐍 Learning Python and Data Structures & Algorithms<br>🚀 Building real-world projects to improve problem-solving skills<br>
 
 ###
 
