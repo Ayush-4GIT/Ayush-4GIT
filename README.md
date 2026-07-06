@@ -100,7 +100,7 @@ src="https://github-readme-streak-stats.herokuapp.com?user=Ayush-4GIT&theme=radi
 
 <td width="50%" align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-4GIT&theme=radical"/>
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=Ayush-4GIT&theme=radical&hide_border=false&layout=compact"/>
 
 </td>
 </tr>
